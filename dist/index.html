@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>产品画册</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">款式全 · 价格优 · 工厂直供</p>
+          <h1>展销会产品画册</h1>
+        </div>
+        <span class="count" id="productCount">0 款</span>
+      </header>
+
+      <section class="tools" aria-label="筛选产品">
+        <label class="search">
+          <span>搜索</span>
+          <input id="searchInput" type="search" placeholder="型号 / 尺寸 / 价格" autocomplete="off" />
+        </label>
+        <div class="chips" id="categoryChips" aria-label="分类"></div>
+      </section>
+
+      <section class="featured-section" aria-label="主推爆款">
+        <div class="section-title">
+          <h2>主推爆款</h2>
+          <span>展销会重点款</span>
+        </div>
+        <div class="featured-strip" id="featuredStrip"></div>
+      </section>
+
+      <div class="section-title all-title">
+        <h2>全部产品</h2>
+        <span id="allProductCount">0 款</span>
+      </div>
+      <section class="product-feed" id="productFeed" aria-live="polite"></section>
+      <p class="empty" id="emptyState" hidden>没有找到对应产品</p>
+    </main>
+
+    <dialog class="detail-dialog" id="detailDialog">
+      <article class="detail-card">
+        <button class="close-button" id="closeDetail" type="button" aria-label="关闭">×</button>
+        <img id="detailImage" alt="" />
+        <div class="detail-content">
+          <p class="detail-category" id="detailCategory"></p>
+          <h2 id="detailName"></h2>
+          <dl>
+            <div><dt>尺寸</dt><dd id="detailSize"></dd></div>
+            <div><dt>颜色</dt><dd id="detailColor"></dd></div>
+            <div><dt>价格</dt><dd id="detailPrice"></dd></div>
+            <div><dt>备注</dt><dd id="detailNote"></dd></div>
+          </dl>
+        </div>
+      </article>
+    </dialog>
+
+    <dialog class="contact-dialog" id="contactDialog">
+      <article class="contact-card">
+        <button class="close-button" id="closeContact" type="button" aria-label="关闭">×</button>
+        <div class="contact-head">
+          <p>展销会专属报价</p>
+          <h2>加微信领取完整报价册</h2>
+        </div>
+        <img class="contact-qr" id="contactQr" alt="微信二维码" />
+        <dl class="contact-list">
+          <div><dt>电话</dt><dd id="contactPhone"></dd></div>
+          <div><dt>微信</dt><dd id="contactWechat"></dd></div>
+        </dl>
+        <div class="contact-actions">
+          <button id="copyContact" type="button">复制联系方式</button>
+          <a id="callContact" href="#">拨打电话</a>
+        </div>
+      </article>
+    </dialog>
+
+    <dialog class="contact-dialog" id="favoriteDialog">
+      <article class="contact-card">
+        <button class="close-button" id="closeFavorite" type="button" aria-label="关闭">×</button>
+        <div class="contact-head">
+          <p>方便展后查看</p>
+          <h2>建议收藏这个产品画册</h2>
+        </div>
+        <div class="favorite-steps">
+          <p>微信右上角 <strong>···</strong> → <strong>收藏</strong></p>
+          <p>也可以复制链接，发给自己或采购同事。</p>
+        </div>
+        <div class="contact-actions single">
+          <button id="copyCatalogLink" type="button">复制画册链接</button>
+        </div>
+      </article>
+    </dialog>
+
+    <nav class="bottom-bar" aria-label="快捷操作">
+      <button class="ghost-action" id="saveCatalog" type="button">收藏画册</button>
+      <button class="primary-action" id="contactQuote" type="button">加微信报价</button>
+    </nav>
+
+    <script type="module" src="app.js"></script>
+  </body>
+</html>
