@@ -22,6 +22,7 @@ export function normalizeProducts(rawProducts = []) {
       name: cleanText(product.name) || "未命名产品",
       category: product.category || inferCategory(product.name),
       image: product.image || "",
+      thumb: product.thumb || product.image || "",
       size: cleanText(product.size),
       color: cleanText(product.color),
       price: cleanText(product.price),

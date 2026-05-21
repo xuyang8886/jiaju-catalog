@@ -126,7 +126,7 @@ function createFeaturedCard(product) {
   button.className = "featured-card";
   button.type = "button";
   button.innerHTML = `
-    <img src="${product.image}" alt="${product.name}" loading="lazy">
+    <img src="${product.thumb || product.image}" alt="${product.name}" loading="lazy">
     <div>
       <p>${product.name}</p>
       <strong>${getStartingPrice(product)}</strong>
@@ -149,7 +149,7 @@ function createProductCard(product) {
         .join("")}</div>`
     : "";
   button.innerHTML = `
-    <img src="${product.image}" alt="${product.name}" loading="lazy">
+    <img src="${product.thumb || product.image}" alt="${product.name}" loading="lazy">
     <div class="product-info">
       <h2 class="product-name">${product.name}</h2>
       <div class="product-price">${getStartingPrice(product)}</div>

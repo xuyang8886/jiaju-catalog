@@ -7,7 +7,8 @@
     "color": "白胚",
     "price": "530元\n530元\n550元\n590元",
     "note": "不带五金",
-    "source": "柜类价格表(2).xlsx"
+    "source": "柜类价格表(2).xlsx",
+    "thumb": "assets/thumbs/cabinet-01.jpg"
   },
   {
     "id": "cabinet-2",
@@ -17,7 +18,8 @@
     "color": "白胚",
     "price": "550元",
     "note": "不带五金",
-    "source": "柜类价格表(2).xlsx"
+    "source": "柜类价格表(2).xlsx",
+    "thumb": "assets/thumbs/cabinet-02.jpg"
   },
   {
     "id": "cabinet-3",
@@ -27,7 +29,8 @@
     "color": "白胚",
     "price": "560元",
     "note": "不带五金",
-    "source": "柜类价格表(2).xlsx"
+    "source": "柜类价格表(2).xlsx",
+    "thumb": "assets/thumbs/cabinet-03.jpg"
   },
   {
     "id": "cabinet-4",
@@ -37,7 +40,8 @@
     "color": "白胚",
     "price": "490元",
     "note": "不带五金",
-    "source": "柜类价格表(2).xlsx"
+    "source": "柜类价格表(2).xlsx",
+    "thumb": "assets/thumbs/cabinet-04.jpg"
   },
   {
     "id": "cabinet-5",
@@ -47,7 +51,8 @@
     "color": "白胚",
     "price": "380元",
     "note": "不带五金",
-    "source": "柜类价格表(2).xlsx"
+    "source": "柜类价格表(2).xlsx",
+    "thumb": "assets/thumbs/cabinet-05.jpg"
   },
   {
     "id": "cabinet-6",
@@ -57,7 +62,8 @@
     "color": "白胚",
     "price": "400元",
     "note": "不带五金",
-    "source": "柜类价格表(2).xlsx"
+    "source": "柜类价格表(2).xlsx",
+    "thumb": "assets/thumbs/cabinet-06.jpg"
   },
   {
     "id": "cabinet-7",
@@ -67,7 +73,8 @@
     "color": "白胚",
     "price": "400元",
     "note": "不带五金",
-    "source": "柜类价格表(2).xlsx"
+    "source": "柜类价格表(2).xlsx",
+    "thumb": "assets/thumbs/cabinet-07.jpg"
   },
   {
     "id": "cabinet-8",
@@ -77,7 +84,8 @@
     "color": "白胚",
     "price": "450元",
     "note": "不带五金",
-    "source": "柜类价格表(2).xlsx"
+    "source": "柜类价格表(2).xlsx",
+    "thumb": "assets/thumbs/cabinet-08.jpg"
   },
   {
     "id": "cabinet-9",
@@ -87,7 +95,8 @@
     "color": "白胚",
     "price": "520元",
     "note": "不带五金",
-    "source": "柜类价格表(2).xlsx"
+    "source": "柜类价格表(2).xlsx",
+    "thumb": "assets/thumbs/cabinet-09.jpg"
   },
   {
     "id": "cabinet-10",
@@ -97,7 +106,8 @@
     "color": "白胚",
     "price": "590元",
     "note": "不带五金",
-    "source": "柜类价格表(2).xlsx"
+    "source": "柜类价格表(2).xlsx",
+    "thumb": "assets/thumbs/cabinet-10.jpg"
   },
   {
     "id": "cabinet-11",
@@ -107,7 +117,8 @@
     "color": "白胚",
     "price": "620元",
     "note": "不带五金",
-    "source": "柜类价格表(2).xlsx"
+    "source": "柜类价格表(2).xlsx",
+    "thumb": "assets/thumbs/cabinet-11.jpg"
   },
   {
     "id": "cabinet-12",
@@ -117,7 +128,8 @@
     "color": "白胚",
     "price": "560",
     "note": "不带五金",
-    "source": "柜类价格表(2).xlsx"
+    "source": "柜类价格表(2).xlsx",
+    "thumb": "assets/thumbs/cell-2da32f29.jpg"
   },
   {
     "id": "cabinet-13",
@@ -127,7 +139,8 @@
     "color": "白胚",
     "price": "120",
     "note": "不带五金",
-    "source": "柜类价格表(2).xlsx"
+    "source": "柜类价格表(2).xlsx",
+    "thumb": "assets/thumbs/cell-685fe3e1.jpg"
   },
   {
     "id": "cabinet-14",
@@ -137,7 +150,8 @@
     "color": "白胚",
     "price": "560",
     "note": "不带五金",
-    "source": "柜类价格表(2).xlsx"
+    "source": "柜类价格表(2).xlsx",
+    "thumb": "assets/thumbs/cell-aaf717b2.jpg"
   },
   {
     "id": "cabinet-15",
@@ -147,7 +161,8 @@
     "color": "白胚",
     "price": "680",
     "note": "不带五金",
-    "source": "柜类价格表(2).xlsx"
+    "source": "柜类价格表(2).xlsx",
+    "thumb": "assets/thumbs/cell-215543ae.jpg"
   },
   {
     "id": "price-main-16",
@@ -158,7 +173,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-01.jpg"
   },
   {
     "id": "price-main-17",
@@ -169,7 +185,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-02.jpg"
   },
   {
     "id": "price-main-18",
@@ -180,7 +197,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-03.jpg"
   },
   {
     "id": "price-main-19",
@@ -191,7 +209,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-04.jpg"
   },
   {
     "id": "price-main-20",
@@ -202,7 +221,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-05.jpg"
   },
   {
     "id": "price-main-21",
@@ -213,7 +233,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-06.jpg"
   },
   {
     "id": "price-main-22",
@@ -224,7 +245,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-07.jpg"
   },
   {
     "id": "price-main-23",
@@ -235,7 +257,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-08.jpg"
   },
   {
     "id": "price-main-24",
@@ -246,7 +269,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-09.jpg"
   },
   {
     "id": "price-main-25",
@@ -257,7 +281,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-10.jpg"
   },
   {
     "id": "price-main-26",
@@ -268,7 +293,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-11.jpg"
   },
   {
     "id": "price-main-27",
@@ -279,7 +305,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-12.jpg"
   },
   {
     "id": "price-main-28",
@@ -301,7 +328,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-14.jpg"
   },
   {
     "id": "price-main-30",
@@ -323,7 +351,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-16.jpg"
   },
   {
     "id": "price-main-32",
@@ -345,7 +374,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-18.jpg"
   },
   {
     "id": "price-main-34",
@@ -356,7 +386,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-19.jpg"
   },
   {
     "id": "price-main-35",
@@ -367,7 +398,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-20.jpg"
   },
   {
     "id": "price-main-36",
@@ -378,7 +410,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-21.jpg"
   },
   {
     "id": "price-main-37",
@@ -389,7 +422,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-22.jpg"
   },
   {
     "id": "price-main-38",
@@ -400,7 +434,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-23.jpg"
   },
   {
     "id": "price-main-39",
@@ -411,7 +446,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-24.jpg"
   },
   {
     "id": "price-main-40",
@@ -433,7 +469,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-26.jpg"
   },
   {
     "id": "price-main-42",
@@ -444,7 +481,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-27.jpg"
   },
   {
     "id": "price-main-43",
@@ -455,7 +493,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-28.jpg"
   },
   {
     "id": "price-main-44",
@@ -466,7 +505,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-29.jpg"
   },
   {
     "id": "price-main-45",
@@ -488,7 +528,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-31.jpg"
   },
   {
     "id": "price-main-47",
@@ -499,7 +540,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-32.jpg"
   },
   {
     "id": "price-main-48",
@@ -510,7 +552,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-33.jpg"
   },
   {
     "id": "price-main-49",
@@ -521,7 +564,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-34.jpg"
   },
   {
     "id": "price-main-50",
@@ -532,7 +576,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-35.jpg"
   },
   {
     "id": "price-main-51",
@@ -543,7 +588,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-36.jpg"
   },
   {
     "id": "price-main-52",
@@ -554,7 +600,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-37.jpg"
   },
   {
     "id": "price-main-53",
@@ -565,7 +612,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-38.jpg"
   },
   {
     "id": "price-main-54",
@@ -576,7 +624,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-39.jpg"
   },
   {
     "id": "price-main-55",
@@ -587,7 +636,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-40.jpg"
   },
   {
     "id": "price-main-56",
@@ -598,7 +648,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-41.jpg"
   },
   {
     "id": "price-main-57",
@@ -609,7 +660,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-42.jpg"
   },
   {
     "id": "price-main-58",
@@ -620,7 +672,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-43.jpg"
   },
   {
     "id": "price-main-59",
@@ -631,7 +684,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-44.jpg"
   },
   {
     "id": "price-main-60",
@@ -642,7 +696,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-45.jpg"
   },
   {
     "id": "price-main-61",
@@ -653,7 +708,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-46.jpg"
   },
   {
     "id": "price-main-62",
@@ -664,7 +720,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-47.jpg"
   },
   {
     "id": "price-main-63",
@@ -675,7 +732,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-48.jpg"
   },
   {
     "id": "price-main-64",
@@ -686,7 +744,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-49.jpg"
   },
   {
     "id": "price-main-65",
@@ -708,7 +767,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-51.jpg"
   },
   {
     "id": "price-main-67",
@@ -719,7 +779,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-52.jpg"
   },
   {
     "id": "price-main-68",
@@ -730,7 +791,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-53.jpg"
   },
   {
     "id": "price-main-69",
@@ -752,7 +814,8 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-55.jpg"
   },
   {
     "id": "price-main-71",
@@ -763,6 +826,7 @@
     "color": "",
     "price": "",
     "note": ".et 文件图片，型号和价格待补充",
-    "source": "价格表25-8-5(1).et"
+    "source": "价格表25-8-5(1).et",
+    "thumb": "assets/thumbs/price-main-56.jpg"
   }
 ]
